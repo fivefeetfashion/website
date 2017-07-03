@@ -4,7 +4,8 @@ const BlogPost = styled.div`
     min-height          : 100vh;
     margin              : 0 auto;
     color               : ${props => props.theme.primColor(0.8)};
-
+    -webkit-overflow-scrolling: touch;
+    
     > h1 {
         text-align      : center;
         margin          : 0;

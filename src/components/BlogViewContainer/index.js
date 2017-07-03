@@ -34,9 +34,6 @@ export default class BlogViewContainer extends Component {
                 transitionLeaveTimeout={300}>
 
                 <BlogView key='1'>
-                    <Link to='/'>
-                        <CloseButton> X </CloseButton>
-                    </Link>
                     <ShareButton>
                         <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffivefeetfashion.github.io%2F&amp;src=sdkpreparse"
                         target="_blank" rel="noreferrer noopener">

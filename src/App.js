@@ -13,10 +13,23 @@ export default class App extends Component {
         <ThemeProvider theme={theme.mainTheme}>
           <HashRouter>
             <div>
-              <Route path="/" component={NavbarContainer}/>
-              <Route exact path="/" component={ContentContainer}/>
-              <Route path="/about" component={ContentContainer} />
-              <Route path="/post/:id" component={BlogViewContainer} />
+
+              <Route
+                path="/" 
+                component={NavbarContainer}/>
+
+              <Route 
+                exact path="/" 
+                component={ContentContainer}/>
+
+              <Route 
+                path="/about" 
+                component={ContentContainer} />
+
+              <Route 
+                path="/post/:id" 
+                component={BlogViewContainer} />
+                
             </div>
           </HashRouter>  
         </ThemeProvider>
