@@ -122,7 +122,7 @@ const post1 = {
     text: "Credits-"
   }, {
     type: "text",
-    text: "This wouldn't have been possible without my friends' and family's support. Special thanks to Bhavya, who shot these amazing pictures. She's an extremely talented photographer, go check out her <u><a href='https://www.instagram.com/change_her_mind/?hl=en' target='_blank'>instagram</a></u>. And Shubhra, for helping me put this blog together."
+    text: "This wouldn't have been possible without my friends' and family's support. Special thanks to Bhavya, who shot these amazing pictures. She's an extremely talented photographer, go check out her <a href='https://www.instagram.com/change_her_mind/?hl=en' target='_blank' rel='noopener noreferrer'>instagram</a>. And Shubhra, for helping me put this blog together."
   }]
 };
 

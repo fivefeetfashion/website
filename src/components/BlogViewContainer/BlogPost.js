@@ -31,6 +31,11 @@ const BlogPost = styled.div`
         font-weight     : 400;
         font-size       : 1.1em;
         line-height     : 1.5em;
+
+        > a {
+            color           : ${props => props.theme.primColor(0.8)};
+            text-decoration : underline !important;
+        }
     }
 
     > img {
@@ -42,6 +47,7 @@ const BlogPost = styled.div`
 
     > a {
         color           : ${props => props.theme.primColor(0.8)};
+        text-decoration : underline !important;
     }
 `;
 

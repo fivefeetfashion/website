@@ -4,6 +4,7 @@ import { media } from '../../utils/helpers.js';
 //TODO add font settings
 const CardTitle = styled.h2`
     text-align      : left;
+    font-weight     : 500;
     color           : ${props => props.theme.primColor(0.9)};
     ${media.minLaptop`
         
@@ -13,6 +14,7 @@ const CardTitle = styled.h2`
 //TODO add font settings
 const CardSummary = styled.h4`
     text-align      : left;
+    font-weight     : 400;
     color           : ${props => props.theme.secColor(0.6)};
 `;
 
