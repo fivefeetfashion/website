@@ -53,7 +53,7 @@ const post2 = {
     url: "/img/post2/8.jpg"  
   }, {
     type: "text",
-    text: "This is probably my favourite GO TO look. For this look I work this denim jacket with patchwork and ripped detailing. I love how it gives it a slight rough vintage touch to it."
+    text: "This is probably my favourite GO TO look. For this look I wore this denim jacket with patchwork and ripped detailing. I love how it gives it a slight rough vintage touch to it."
   }, {
     type: "img",
     url: "/img/post2/9.jpg"  
@@ -71,7 +71,7 @@ const post2 = {
     url: "/img/post2/11.jpg"  
   }, {
     type: "text",
-    text: "To complete this look , I carried this black sling/ cross body bag and white sneakers."  
+    text: "To complete this look, I carried this black sling / cross body bag and wore white sneakers."  
   }, {
     type: "img",
     url: "/img/post2/12.jpg"  
