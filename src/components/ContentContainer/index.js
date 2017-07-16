@@ -7,6 +7,7 @@ import Header                       from '../Header';
 import Home                         from './Home';
 import About                        from './About';
 import { CardWidth }                from '../utils/helpers.js';
+
 export default class ContentContainer extends Component {
     render() {
         

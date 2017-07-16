@@ -27,7 +27,7 @@ export default function BlogList () {
                     </Card>
                 </Link>    
             );
-        });
+        }).reverse();
         return(
             <div>
                 {cards}
