@@ -5,7 +5,7 @@ const post2 = {
     url: "/img/post2/1.jpg"
   }, {
     type: "text",
-    text: "HI GUYS!\n AND yes I’m back with the same old denims. It's great to see how we have always kept this trend alive. What truly irks my interest in this piece of fabric, the staunch thick material which can make a simple spaghetti go from basic to uber cool, by just pairing it with a jacket. A lot of people assume and consider the word “denim” synonymous with a pair of jeans or our classic jacket trend. But denim can mean so much more. It can go from shirts to even bikinis. And you can have fun creating your own style and looks with this age old material, by just a few minor variations."
+    text: "HI GUYS!\n AND yes I’m back with the same old denims. It's great to see how we have always kept this trend alive. What truly piques my interest in this piece of fabric, the staunch thick material which can make a simple spaghetti go from basic to uber cool, by just pairing it with a jacket. A lot of people assume and consider the word “denim” synonymous with a pair of jeans or our classic jacket trend. But denim can mean so much more. It can go from shirts to even bikinis. And you can have fun creating your own style and looks with this age old material, by just a few minor variations."
   }, {
     type: "text",
     text: "Speaking about variations, Lately I’ve been seeing that the good old patchwork and embroidery is back again and is a must have in your closet this season. I absolutely love how it brings a new dimension to a look and gives the outfit a playful vibe."
