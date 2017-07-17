@@ -1,4 +1,5 @@
 import React                    from 'react';
+import { Link }                 from 'react-router-dom';
 import Navbar                   from './Navbar';
 import Logo                     from './Logo';
 import Navigation               from './Navigation';
@@ -9,9 +10,11 @@ import NavbarContent            from './NavbarContent';
 export default function NavbarContainer (props) {
     return (
         <Navbar>
-            <Logo>
-                <img src={logo} alt="logo" width="100%" height="100%"/>
-            </Logo>
+            <Link to="/">
+                <Logo>
+                    <img src={logo} alt="logo" width="100%" height="100%"/>
+                </Logo>
+            </Link>
             <NavbarContent>
                 <Navigation path={props.location.pathname} />
                 <Follow />
